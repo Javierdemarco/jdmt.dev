@@ -27,15 +27,12 @@ menu:
     - name: Docs
       pageRef: /docs
       weight: 2
-    - name: About
-      pageRef: /about
-      weight: 3
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 4
       url: "https://github.com/javierdemarco/jdmt.dev"
       params:
         icon: github
@@ -49,4 +46,4 @@ params:
       dark: images/logo.png
   footer:
     displayCopyright: false
-    displayPoweredBy: false
+    displayPoweredBy: true

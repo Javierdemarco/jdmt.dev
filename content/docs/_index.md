@@ -1,20 +1,11 @@
 ---
-title: Documentation
-next: first-page
+title: Documentation Homepage
 cascade:
   type: docs
 ---
 
-This is a demo of the theme's documentation layout.
+This is the homepage of my documentation
 
-## Hello, World!
+On the left panel you can find all the sections and navigate the documentation.
 
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+It is possible to search for any document or word with the search bar on the top.
