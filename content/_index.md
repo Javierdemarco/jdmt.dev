@@ -1,6 +1,7 @@
 ---
 title: My Site
-toc: false
+sidebar:
+  open: true
 ---
 
 This is the landing page.
@@ -8,7 +9,7 @@ This is the landing page.
 ## Explore
 
 {{< cards >}}
-  {{< card link="posts" title="Blog" icon="rss" >}}
+  {{< card link="blog" title="Blog" icon="rss" >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}
 {{< /cards >}}
 

@@ -1,7 +1,6 @@
 ---
 title: "Cubic Custom OS Maker"
 date: 2024-03-09T18:54:49+01:00
-draft: true
 ---
 
 ## Introduction
@@ -25,32 +24,32 @@ sudo apt install --no-install-recommends cubic
 
 First we need to open or create a Cubit project:
 
-![Cubit Start Page](/static/images/cubic-start-page.png)
+![Cubit Start Page](images/cubic-start-page.png)
 
 If no project exists, one can be created by clicking on the folder icon
 
 Then we can fill the information about the custom OS on the metadata page
 
-![Cubic Metadata Page](/static/images/cubic-metadata-page.png)
+![Cubic Metadata Page](images/cubic-metadata-page.png)
 
 Lastly we can customize the OS with the terminal page
 
-![Cubic Terminal Page](/static/images/cubic-terminal-page.png)
+![Cubic Terminal Page](images/cubic-terminal-page.png)
 
 Here is an example installing htop:
 
-![Cubic Installation Htop](/static/images/cubic-terminal-page-install.png)
+![Cubic Installation Htop](images/cubic-terminal-page-install.png)
 
 After customizing the image with the terminal, it is possible to not include some programs in the standard installation as well as creating a minimal install.
 
-![Cubic Versions Page](/static/images/cubic-versions-page.png)
+![Cubic Versions Page](images/cubic-versions-page.png)
 
 Last steps are selecting kernel and compression method
 
-![Cubic Kernel Page](/static/images/cubic-kernel-page.png)
+![Cubic Kernel Page](images/cubic-kernel-page.png)
 
-![Cubic Compression Page](/static/images/cubic-compression-page.png)
+![Cubic Compression Page](images/cubic-compression-page.png)
 
 After generating the image you can review important information on the finish page
 
-![Cubic Finish page](/static/images/cubic-finish-page.png)
+![Cubic Finish page](images/cubic-finish-page.png)
