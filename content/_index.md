@@ -1,17 +1,15 @@
 ---
-title: My Site
+title: Software, Blogging and Documentation
 toc: false
 ---
 
-This is the landing page.
-
 ## Explore
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+{{< cards cols="2">}}
+  {{< card link="blog" title="Blog" image="images/blog.jpg" icon="annotation">}}
+  {{< card link="projects" title="Projects" icon="book-open" image="images/projects.jpg" icon="cog">}}
 {{< /cards >}}
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+{{< cards cols="1">}}
+  {{< card link="docs" title="Docs" icon="book-open" >}}
+{{< /cards >}}
