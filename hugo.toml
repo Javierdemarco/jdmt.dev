@@ -1,0 +1,4 @@
+baseURL = 'https://jdmt.dev/'
+languageCode = 'en-us'
+title = 'JDMT.DEV'
+theme = 'lugo'
