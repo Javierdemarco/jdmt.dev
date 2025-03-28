@@ -1,5 +1,4 @@
 # Hugo output
 docs/.vitepress/dist
 docs/.vitepress/cache
-package-lock.json
 node_modules
