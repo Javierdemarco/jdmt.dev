@@ -5,9 +5,7 @@ enableEmoji: true
 enableInlineShortcodes: true
 
 # import hextra as module
-module:
-  imports:
-    - path: github.com/imfing/hextra
+theme: hextra
 
 markup:
   # allow raw html
@@ -34,12 +32,12 @@ menu:
       pageRef: /docs
       weight: 3
     - name: Search
-      weight: 5
+      weight: 4
       params:
         type: search
     - name: GitHub
-      weight: 7
-      url: 'https://github.com/javierdemarco/jdmt.dev'
+      weight: 5
+      url: "https://github.com/javierdemarco/jdmt.dev"
       params:
         icon: github
 
@@ -58,11 +56,10 @@ params:
   comments:
     enable: false
     type: giscus
-
     giscus:
       repo: javierdemarco/jdmt.dev
       repoId: R_kgDON7xvfQ
-      category: Announcements
+      category: Discussion
       category-id: DIC_kwDON7xvfc4CnFsQ
       mapping: pathname
       strict: 0
