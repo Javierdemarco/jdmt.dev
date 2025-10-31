@@ -1,4 +1,5 @@
 # Hugo output
-docs/.vitepress/dist
-docs/.vitepress/cache
-node_modules
+public/
+resources/
+.hugo_build.lock
+
