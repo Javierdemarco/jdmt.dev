@@ -1,4 +1,4 @@
-# Hextra Starter Template
+# JDMT.DEV
 
 [![Deploy Hugo site to Pages](https://github.com/imfing/hextra-starter-template/actions/workflows/pages.yaml/badge.svg)](https://github.com/imfing/hextra-starter-template/actions/workflows/pages.yaml)
 🐣 Minimal template for getting started with [Hextra](https://github.com/imfing/hextra)
